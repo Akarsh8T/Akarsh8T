@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
-- 
+- ![](https://komarev.com/ghpvc/?username=Akarsh8T)
 
 <!---
 Akarsh8T/Akarsh8T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
